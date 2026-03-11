@@ -20,5 +20,11 @@
     <ClInclude Include="PotionRecipe.h">
       <Filter>Recipe</Filter>
     </ClInclude>
+    <ClInclude Include="RecipeManager.h">
+      <Filter>Recipe</Filter>
+    </ClInclude>
+    <ClInclude Include="StockManager.h">
+      <Filter>Recipe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
